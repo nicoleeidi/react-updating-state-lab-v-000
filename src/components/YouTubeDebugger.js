@@ -8,7 +8,12 @@ class YoutubeDebugger extends React.Component {
      } }
    }
  }
-handleClick
+handleChangBitrate= () => {
+  
+}
+handleChangeResolution= ()=> {
+  
+}
 render(){
   return (
     <button className="bitrate"></button>
