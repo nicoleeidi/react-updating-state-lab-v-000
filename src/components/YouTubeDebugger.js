@@ -11,7 +11,7 @@ class YoutubeDebugger extends React.Component {
 
 render(){
   return (
-    <button></button>
+    <button className="butrate"></button>
     <button></button>
   )
 }
