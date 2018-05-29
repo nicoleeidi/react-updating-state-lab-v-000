@@ -9,10 +9,12 @@ class YoutubeDebugger extends React.Component {
    }
  }
 handleChangBitrate= () => {
-  
+  this.setState({
+    
+  })
 }
 handleChangeResolution= ()=> {
-  
+
 }
 render(){
   return (
