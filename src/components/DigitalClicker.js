@@ -9,7 +9,7 @@ constructor(){
 }
 handleClick= () => {
   this.setState({
-    timesClicked: ++this.state.timesClicked 
+    timesClicked: ++this.state.timesClicked
   })
 }
 render(){
@@ -18,4 +18,4 @@ render(){
   )
 }
 }
-export default DigitalClicker ; 
+export default DigitalClicker ;
