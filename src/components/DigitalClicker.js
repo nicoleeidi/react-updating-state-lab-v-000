@@ -9,7 +9,7 @@ constructor(){
 }
 handleClick= () => {
   this.setState({
-    timesClicked += 1
+    timesClicked: ++this.state.timesClicked 
   })
 }
 render(){
