@@ -12,7 +12,7 @@ handleClick= () => {
 }
 render(){
   return (
-    <button></button>
+    <button onClick={this.handleClick}></button>
   )
 }
 }
