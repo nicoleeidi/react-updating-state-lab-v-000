@@ -18,3 +18,4 @@ render(){
   )
 }
 }
+export default DigitalClicker ; 
