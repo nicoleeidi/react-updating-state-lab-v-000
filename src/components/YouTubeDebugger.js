@@ -1,6 +1,6 @@
 // Code YouTubeDebugger Component Here
 import React from 'react';
-class DigitalClicker extends React.Component {
+class YoutubeDebugger extends React.Component {
   constructor(){
     super();
     this.state={
