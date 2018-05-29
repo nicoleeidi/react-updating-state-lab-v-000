@@ -8,10 +8,10 @@ class YoutubeDebugger extends React.Component {
      } }
    }
  }
-
+handleClick
 render(){
   return (
-    <button className="butrate"></button>
+    <button className="bitrate"></button>
     <button></button>
   )
 }
